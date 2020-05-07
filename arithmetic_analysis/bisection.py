@@ -1,6 +1,6 @@
 import math
 
-
+print("helloxxxxxxxxxxxx")
 def bisection(
     function, a, b
 ):  # finds where the function becomes 0 in [a,b] using bolzano
